@@ -1,0 +1,60 @@
+Simplify 6i + 2i – 4k + 5j + 4i - 13j
+(1) 12i + 5j - 9k
+(2) 12i + 8j - 4k
+(3) 2j - 3i + k
+(4) None
+3
+What is the value of Arg(5+8i)?
+(1) 45
+(2) 58
+(3) 85
+(4) 180
+2
+What is the condition of 2 lines being parallel to each other?
+(1) a1a2 = b1b2
+(2) a1 = b1
+(3) a2 = b2/b1
+(4) a1b2 - a2b1 = 0
+4
+What is the slope of 4y = 3(x+17)?
+(1) 0.75
+(2) -0.75
+(3) 1.333
+(4) -1.333
+1
+Calculate the are of the triangle made with (2,4)(3,5)(4,6)
+(1) 2.033
+(2) 2.63
+(3) 1.345
+(4) 0
+4
+Suppose a 3x3 matA = {1 2 3,4 5 6,7 8 9}. Find |A|
+(1) 0
+(2) -3
+(3) -9
+(4) 12
+1
+Intersect points of 3x+5y-9 = 0 and y = 6x?
+(1) (1.33,-0.27)
+(2) (1.63,0.27)
+(3) (-0.27,1.33)
+(4) (0.27,1.63)
+4
+How much perfect squared numbers are there in range [1,1000]
+(1) 9%
+(2) 10%
+(3) 4.5%
+(4) 3.1%
+4
+Range of Function y = {x-(4/3)}^-1?
+(1) R-{3/4}
+(2) R-{-3/4}
+(3) R-{4/3}
+(4) R-{-4/3}
+3
+A coin is thrwon for 10^99 times, probability of getting heads?
+(1) 1/2
+(2) 5x10^98
+(3) 5x10^49
+(4) 0.499999
+2
