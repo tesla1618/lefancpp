@@ -1756,7 +1756,7 @@ cout<<endl;
 
         cout<<"\n\033[35m\t\e[1mWelcome to Maths Playground\033[0m\e[0m\n";
         cout<<"\t\033[35m\e[1m[1]\033[0m\e[0m  Beginner Problems\n";
-        cout<<"\t     | Topics: Easy Algebra, Geometry, Matrix, Vector"<<endl;
+        cout<<"\t     | Topics: Easy Algebra, Geometry, Matrix and Vector"<<endl;
 
         cout<<"\t\033[35m\e[1m[2]\033[0m\e[0m  BrainFreeze Problems\n";
         cout<<"\t     | Topics: Check yourself ;)"<<endl;
